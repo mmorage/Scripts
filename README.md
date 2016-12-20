@@ -9,3 +9,5 @@ Copia_header.py:  Copy a header from one image to another.
 Crea_imagen.py: Shows the GMOS  raw images as one. 
 
 display_loop.py: uses ds9 and it shows all images located in the directory. Gemini format. 
+
+fit_line_cube_parallel.py: Fit a gaussian profile to a GMOS IFU datacube
