@@ -12,4 +12,3 @@ display_loop.py: uses ds9 and it shows all images located in the directory. Gemi
 
 fit_line_cube_parallel.py: Fit a gaussian profile to a GMOS IFU datacube
 
-createtechfom_v1.0.py. Read xml archive and gets the relevant information needed it for the technical assessment of CL proposals. Test version.
